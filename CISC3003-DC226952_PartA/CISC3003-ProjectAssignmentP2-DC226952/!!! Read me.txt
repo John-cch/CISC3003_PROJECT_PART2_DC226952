@@ -1,0 +1,37 @@
+Read me
+Github repo link:
+https://github.com/DC226252/CISC3003-2324_ProjectAssignment.git
+
+
+
+
+Installation
+To install and run this project, please follow the steps below:
+
+Prerequisites
+XAMPP or similar software stack (Apache, PHP, MySQL)
+Web browser (e.g., Google Chrome, Mozilla Firefox, Microsoft Edge)
+
+Step 1: Extract the Project Files
+Extract the contents of the downloaded ZIP file to the appropriate location on your computer. You can choose any directory as per your preference.
+
+Step 2: Start Apache and MySQL in XAMPP
+Open XAMPP and start the Apache web server and MySQL database. Ensure that both services are running and have a green status indicator.
+
+Step 3: Create the Database
+Open your web browser and navigate to http://localhost/phpmyadmin. This will open the phpMyAdmin interface.
+
+
+##Notice : Mine mysql in xampp is using user name "root" and set a password :"root". For connection failed, users may need to open the corrsponding file and change back to their own password
+
+
+Click on "New" in the left sidebar to create a new database. Enter the name "shop_db" and click "Create" to proceed.
+
+Step 4: Access the Website
+Open your web browser and enter the following URL:
+
+Copy
+http://localhost/your_project_directory
+Replace your_project_directory with the directory name where you extracted the project files.
+
+You should now be able to access the shopping cart system and start using it.
